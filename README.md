@@ -1,4 +1,4 @@
-- codigo para el despliege de variables -Elicserio Martínez Dylan Aaron
+- codigo para el despliegue de variables -Elicserio Martínez Dylan Aaron
 
 # PR1_VARIABLES
 Ejemplos de tipos de variables
