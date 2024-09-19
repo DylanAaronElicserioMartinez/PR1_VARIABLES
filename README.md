@@ -5,7 +5,7 @@ Ejemplos de tipos de variables
 
 print(" ")
 
-print("Dylan Aaron ELicserio Martínez esta es mi practica)
+print("Dylan Aaron ELicserio Martínez esta es mi practica PR1_VARIABLES)
 
 print(" ")
 
@@ -19,4 +19,4 @@ print (y) #print imprime en la pantalla la expresion y
 
 print (x + y) #print imprime la suma de las dos variables
 
-![image](https://github.com/user-attachments/assets/1d68d737-b9ba-4bb9-809a-ca01d32d268c)
+![image](https://github.com/user-attachments/assets/8c174d18-2605-4867-a48e-80e7bc53b1c5)
