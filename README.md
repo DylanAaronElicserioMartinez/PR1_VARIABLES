@@ -4,11 +4,17 @@
 Ejemplos de tipos de variables
 
 print(" ")
+
 print("Dylan Aaron ELicserio Martínez esta es mi practica)
+
 print(" ")
+
 x = 10 # x es igual a 10
+
 y =20 # y es igual a 20
+
 print (x) #print imprime en la pantalla la expresion x
+
 print (y) #print imprime en la pantalla la expresion y
 
 print (x + y) #print imprime la suma de las dos variables
